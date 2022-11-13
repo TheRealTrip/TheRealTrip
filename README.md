@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TheRealTrip</h1>
 <h3 align="center">A developer from the UK.</h3>
 
-- 🔭 I’m currently working on [Pterodactyl-Discord-Status-Bot](https://github.com/TheRealTrip/Pterodactyl-Discord-Status-Bot)
+- 🔭 I’m currently working on [trip.florkers.com](https://github.com/TheRealTrip/trip.florkers.com)
 
 - 🌱 I’m currently learning **Java & Javascript**
 
