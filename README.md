@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Java & Javascript**
 
 <h3 align="left">Connect with me:</h3>
+:mailbox: mail.therealtrip.me
 <p align="left">
 </p>
 
