@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Java & Javascript**
 
 <h3 align="left">Connect with me:</h3>
- - :mailbox: mail.therealtrip.me
+<h4>:mailbox: mail.therealtrip.me</h4>
 <p align="left">
 </p>
 
