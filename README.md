@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm TheRealTrip</h1>
-<h3 align="center">A developer from the UK.</h3>
+<h1 align="center">Hi 👋, I'm Oisin</h1>
+<h3 align="center">A CS Student at the University of Edinburgh.</h3>
 
-- 🔭 I’m currently working on [trip.florkers.com](https://github.com/TheRealTrip/trip.florkers.com)
+- 🔭 I’m currently working on [2D Gantry Controller](https://github.com/TheRealTrip/SimpleGCodeStreamer)
 
-- 🌱 I’m currently learning **Java & Javascript**
+- 🌱 I’m currently learning **C & Java**
 
 <h3 align="left">Connect with me:</h3>
-<h4>:mailbox: mail@therealtrip.me</h4>
+<h4>:mailbox: me@oisin.cx</h4>
 <p align="left">
 </p>
 
